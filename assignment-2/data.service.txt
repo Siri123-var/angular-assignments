@@ -1,0 +1,6 @@
+export class dataservice{
+    getCourses(){
+        return ["course1: DATA SCIENCE--Analyzing of data","course2: ROBOTICS--study of robots","course3: ACCOUNTING--classifying the financial assets",
+        "course4: JAVA--developing applications"];
+    }
+}
